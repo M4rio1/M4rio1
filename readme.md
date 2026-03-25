@@ -41,9 +41,6 @@
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>React
         </td>
-        <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/><br>Vite
-        </td>
       </tr>
       <tr>
         <td align="center" width="120">
@@ -87,9 +84,6 @@
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/><br>Prisma
         </td>
-        <td align="center" width="120">
-          <br>Zod
-        </td>
       </tr>
     </table>
   </div>
@@ -99,14 +93,8 @@
   <div align="center">
     <table>
       <tr>
-        <td align="center" width="120"><br>UX/UI</td>
-        <td align="center" width="120"><br>REST API</td>
-        <td align="center" width="120"><br>SEO</td>
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br>Git
-        </td>
-        <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/><br>GitHub
         </td>
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker
@@ -114,27 +102,10 @@
       </tr>
       <tr>
         <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/><br>Postman
-        </td>
-        <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux
         </td>
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/><br>Nginx
-        </td>
-        <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pm2/pm2-original.svg" width="40" height="40"/><br>PM2
-        </td>
-        <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/><br>Vercel
-        </td>
-        <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" width="40" height="40"/><br>PNPM
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="40" height="40"/><br>Yaml
         </td>
       </tr>
     </table>
