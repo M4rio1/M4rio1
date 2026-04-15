@@ -41,6 +41,9 @@
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>React
         </td>
+        <td align="center" width="120">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/><br>Angular
+        </td>
       </tr>
       <tr>
         <td align="center" width="120">
