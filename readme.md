@@ -4,7 +4,7 @@
 
 <h3 align="center">Soy un desarrollador web fullstack con pasión por crear aplicaciones modernas, eficientes y centradas en el usuario. Me especializo en el desarrollo de soluciones completas, desde el frontend atractivo y funcional hasta el backend sólido y escalable.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **mario1sm@hotmail.com**
 
