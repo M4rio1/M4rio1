@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mario D. Salazar</h1>
 
-<img width="1600" height="400" alt="Image" src="https://github.com/user-attachments/assets/1736cc28-2001-44ee-becf-d5bc18ce20fa" />
+<img width="1600" height="400" alt="Image" src="https://github.com/user-attachments/assets/92120979-53df-42eb-92b2-b8f4652a0ad7" />
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **mario1sm@hotmail.com**
 
