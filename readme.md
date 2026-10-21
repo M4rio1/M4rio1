@@ -1,6 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mario D. Salazar</h1>
+<div align="center">
 
-<img width="1600" height="400" alt="Image" src="https://github.com/user-attachments/assets/92120979-53df-42eb-92b2-b8f4652a0ad7" />
+<p><sub>WOW PROFILE · M4RIO1 · LIVE</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=m4rio1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90827301%3Fu%3D6983dee48991aa822c66d390466b904ee5f76c90%26v%3D4&variant=living-identity&label=Mario%20Salazar&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=m4rio1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90827301%3Fu%3D6983dee48991aa822c66d390466b904ee5f76c90%26v%3D4&variant=living-identity&label=Mario%20Salazar&v=wow-living-identity-1&mode=dark" width="100%" alt="Mario Salazar animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Software Enginner</strong> · Guatemala</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/m4rio1">GitHub</a></p>
+</div>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=m4rio1&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90827301%3Fu%3D6983dee48991aa822c66d390466b904ee5f76c90%26v%3D4&v=showcase-wordmark-2" alt="Mario Salazar wordmark visual" />
+</p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
